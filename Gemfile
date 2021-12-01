@@ -12,7 +12,6 @@ gem 'acts_as_votable', '~> 0.13.2'
 gem 'carrierwave', '~> 2.2', '>= 2.2.2'
 gem 'font-awesome-rails'
 gem 'impressionist', '~> 2.0'
-gem 'jquery-rails', '~> 4.4'
 gem 'mini_magick', '~> 4.11'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
